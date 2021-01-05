@@ -17,6 +17,7 @@ s.dependency 'RxSwift', '~> 4.0'
 s.dependency 'RxCocoa', '~> 4.0'
 
 s.source_files = "Core/**/*.{swift}"
+s.resources = "Core/**/*.{xib}"
 s.swift_version = "5.1"
 
 end
